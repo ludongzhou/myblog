@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Remember
-email: feedback@rmb.is
+title: 随笔
+email: feedback@ldzh.org
 description: >- # this means to ignore newlines until "baseurl:"
-  技术随想
+  随笔
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rmb.is" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ldzh.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
