@@ -7,9 +7,7 @@ categories: default
 
 Keepalived实现了VRRP协议, 通过在多个机器之前争抢同一个虚拟IP, 从而实现了高可用. 
 
-```html
 <img class="image" src="/assets/images/Keepalived.png">
-```
 
 在上图展示的局域网中, 三台机器争抢了同一个虚拟IP, 通过VRRP协议, 保证了只有一台机器能够获得虚拟IP: 192.168.0.100, 其他机器都是standby状态.
 当master机器宕机时, 其他机器会争抢虚拟IP.
