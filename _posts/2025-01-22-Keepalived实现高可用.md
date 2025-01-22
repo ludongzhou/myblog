@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keepalived实现高可用"
-date:   2025-01-22 23:35:00 +0800
+date:   2025-01-22 21:35:00 +0800
 categories: default
 ---
 
